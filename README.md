@@ -2,8 +2,8 @@
 Nombre: Marlen Crismel Espinal Almodovar
 Matrícula: 25-SSON-2-002
 
-Nombre: Juan Erminio Zorrilla
-Matrícula: 25-SSON-1-001
+Nombre: Juan Erminio Perez Doroteo
+Matrícula: 25-SSON-2-001
 
 Asignatura: Algoritmos Computacionales
 Profesor: Gamalier Reyes del Carmen
